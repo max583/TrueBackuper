@@ -1,0 +1,1 @@
+data class FullConfig (val tasks: ArrayList<Task>)
