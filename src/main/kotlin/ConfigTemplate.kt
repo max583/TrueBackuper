@@ -1,0 +1,1 @@
+class ConfigTemplate (val tasks: ArrayList<Task>)

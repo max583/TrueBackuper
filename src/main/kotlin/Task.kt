@@ -1,0 +1,1 @@
+class Task (val taskName: String, val sourceDirs: Array<String>, val destDir: String)
